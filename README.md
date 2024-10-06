@@ -1,9 +1,8 @@
-## Hola 👋
+## Hola soy 👋
 
 # marianapiras
 
-## ¿Quien soy?
-Soy Ingeniera en Alimentos y Data Analytics. Apasionada por los datos.
+Ingeniera en Alimentos y Data Analytics. Apasionada por los datos.
 Soy una persona proactiva, resolutiva, empática y con ganas de perfeccionar mis habilidades. A favor del trabajo en equipo y colaborativo.
 
 ## ¿Qué hago?
@@ -24,5 +23,4 @@ Henry me a permitido adquirir el cnocimiento y experiencia para poder comenzar e
 * https://www.linkedin.com/in/mariana-piras/
 * tel: 3571-416885
 
-**marianapiras/marianapiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
