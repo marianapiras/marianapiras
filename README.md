@@ -1,6 +1,6 @@
-## Hola soy 👋
+## Hola soy 👋 # marianapiras
 
-# marianapiras
+
 
 Ingeniera en Alimentos y Data Analytics. Apasionada por los datos.
 Soy una persona proactiva, resolutiva, empática y con ganas de perfeccionar mis habilidades. A favor del trabajo en equipo y colaborativo.
