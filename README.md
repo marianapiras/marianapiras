@@ -21,6 +21,6 @@ Henry me a permitido adquirir el cnocimiento y experiencia para poder comenzar e
 ## Contacto:
 * marianapiras@hotmail.com
 * https://www.linkedin.com/in/mariana-piras/
-* tel: 3571-416885
+* tel: +549-3571-416885
 
 
